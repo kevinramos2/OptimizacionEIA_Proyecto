@@ -2,7 +2,7 @@
 
 Proyecto final del curso **Optimización e Inteligencia Artificial**. Docente: María C. Torres.
 
-**Integrantes:** Kevin Leandro Ramos Luna · _Integrante 2_ · _Integrante 3_
+**Integrantes:** Kevin Leandro Ramos Luna · Daniel Felipe Garzón Acosta · Ángel Efraín Pimienta Durán · Daniel Ortega  · Manuel Mera Mera
 
 **Video:** _(enlace de YouTube)_ · **Póster:** [`poster/`](poster/)
 
