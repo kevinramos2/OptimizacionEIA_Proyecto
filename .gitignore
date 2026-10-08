@@ -1,0 +1,27 @@
+# Datos (no se suben: superan el límite de 100 MB de GitHub)
+home-credit-default-risk/
+*.csv
+*.zip
+
+# Resultados de Keras Tuner / Optuna
+Random_Search/
+bayesian_tuner/
+hyperband_tuner/
+*_tuner/
+*.db
+
+# Modelos guardados
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema / Office
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
